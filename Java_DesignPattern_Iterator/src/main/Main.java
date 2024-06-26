@@ -12,7 +12,7 @@ public class Main {
 		
 		TestIterator_2 test2 = new TestIterator_2();
 		test2.execute();
-		
+		test2.execute();
 	}
 
 }
